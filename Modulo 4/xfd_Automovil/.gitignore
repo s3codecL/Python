@@ -1,0 +1,4 @@
+*.csv
+
+# para eliminar todos los archivos csv existentes de su repo git
+git rm --cached *.csv 
